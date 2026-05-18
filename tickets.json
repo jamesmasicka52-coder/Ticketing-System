@@ -1,0 +1,17 @@
+[
+    {
+        "ticket_id": "MASIX-0001",
+        "name": "james masika",
+        "Issue": "Router Problem",
+        "issue": "Router has no access to power as the cable is broken.",
+        "category": "Network",
+        "priority": "Critical",
+        "status": "Closed",
+        "assigned_to": "Aijey",
+        "company": "MASIX TECH",
+        "department": "Chlorox",
+        "issue_reported_via": "Walk-In",
+        "date_reported": "2026-05-18",
+        "created_at": "2026-05-18 08:48:32"
+    }
+]
