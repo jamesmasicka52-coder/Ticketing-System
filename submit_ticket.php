@@ -80,7 +80,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     </div>
 
     <div class="action-buttons">
-        <a href="HIstory.php" class="main-btn">View Tickets</a>
+        <a href="history.php" class="main-btn">View Tickets</a>
         <a href="index.html" class="secondary-btn">Dashboard</a>
     </div>
 
